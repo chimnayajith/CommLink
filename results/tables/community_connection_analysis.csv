@@ -1,0 +1,3 @@
+Category,Possible Pairs,Observed Edges,Connection Probability,Total Interaction Weight
+Same Community,189781,4026,0.021213925524683715,27666
+Different Communities,1612370,9812,0.006085451850381736,32169
